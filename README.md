@@ -1,4 +1,4 @@
-<!-- DWAYNE NIXON // NEON PROFILE OS — real projects only; telemetry updates through GitHub Actions -->
+<!-- DWAYNE NIXON // NEON PROFILE OS — credited projects only; all numerical analytics from GitHub API -->
 <div align="center">
 
 <img src="./assets/night-city-banner.svg" width="100%" alt="Dwayne Nixon — Night City cyberpunk-inspired developer profile" />
@@ -35,15 +35,8 @@ I build **AI and data science solutions** spanning computer vision, natural lang
 | PROJECT | MY INVOLVEMENT / FOCUS |
 | :-- | :-- |
 | [**Road Rescue**](https://github.com/DwayneNixon/road_rescue_app) | Named team member · Flutter + Mapbox mobile application |
-| [**Resumatic**](https://github.com/DwayneNixon/Resumatic) | Named team member · Automated resume builder · Innoquest 2023 — 3rd place |
+| [**Resumatic**](https://github.com/DwayneNixon/Resumatic) | Named team member · Automated resume builder |
 | [**DBIT Computer Department Website**](https://github.com/DwayneNixon/CompsDeptWebsite) | Listed on the development team · Website engineering |
-
-</details>
-
-<details>
-<summary><b>▸ OFF-GRID PROJECT — AGROSHIELD</b></summary>
-
-**AgroShield** — agricultural CNN project with **93% accuracy**; **2nd place at Innoquest 2025**. This is one of my projects, but no public GitHub repository is linked, so no GitHub activity or stars are attributed to it.
 
 </details>
 
@@ -53,13 +46,13 @@ I build **AI and data science solutions** spanning computer vision, natural lang
 
 <img src="./assets/analytics.svg" width="100%" alt="Sector 04 — Live GitHub Analytics" />
 
-**`> LIVE GITHUB UPLINK`** — Figures below come from GitHub's own API, refreshed automatically by [this workflow](https://github.com/DwayneNixon/DwayneNixon/actions/workflows/refresh-profile-metrics.yml) every six hours. They are **real counts**, not mock data; the timestamp shows the most recent successful sync. GitHub may briefly cache the images.
+**`> LIVE GITHUB UPLINK`** — Figures below come from GitHub's own API, refreshed automatically by [this workflow](https://github.com/DwayneNixon/DwayneNixon/actions/workflows/refresh-profile-metrics.yml) every six hours. They are **GitHub-sourced counts**, not mock data. Values are displayed after a successful refresh; the timestamp shows the latest completed sync. GitHub may briefly cache the images.
 
 <img src="./assets/telemetry-board.svg" width="100%" alt="Live GitHub public repository count, stars earned, followers and contribution total or verified project count" />
 
 <img src="./assets/contribution-activity.svg" width="100%" alt="GitHub contribution calendar refreshed from the GitHub GraphQL API" />
 
-**`// REPOSITORY SIGNALS`** — Only the six public projects linked above are tracked here. **Stars, forks and last push dates are fetched from GitHub**, not invented or estimated.
+**`// REPOSITORY SIGNALS`** — Only the verified public projects linked above are tracked here. **Stars, forks and last push dates are fetched from GitHub**, not invented or estimated.
 
 <img src="./assets/repository-signals.svg" width="100%" alt="Live stars, forks and latest push dates for verified repositories in which Dwayne Nixon participated" />
 
