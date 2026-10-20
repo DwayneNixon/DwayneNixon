@@ -24,9 +24,11 @@ export function telemetrySVG({ user, repos, contributions, syncedAt }) {
   const followers = Number(user.followers);
   const originalPublic = repos.filter(r => !r.fork && !r.private);
   const stars = originalPublic.reduce((sum,r) => sum + Number(r.stargazers_count || 0), 0);
+  // Every telemetry value comes from GitHub API responses; no hard-coded counts.
+  const forks = originalPublic.reduce((sum,r) => sum + Number(r.forks_count || 0), 0);
   const fourth = Number.isInteger(contributions?.totalContributions) ?
     { value: contributions.totalContributions, label: 'CONTRIBUTIONS / YEAR', note: 'GITHUB CALENDAR' } :
-    { value: FEATURED.length, label: 'VERIFIED PROJECTS', note: 'CURATED // MY WORK' };
+    { value: forks, label: 'REPOSITORY FORKS', note: 'ORIGINAL PUBLIC REPOS' };
   const cards = [
     { label: 'PUBLIC REPOSITORIES',value:publicRepos,note:'GITHUB ACCOUNT',accent:C.cyan },
     { label: 'STARS EARNED',value:stars,note:'ORIGINAL PUBLIC REPOS',accent:C.pink },
@@ -64,7 +66,7 @@ export function projectsSVG({ featured, syncedAt }) {
     parts.push(code(981,y+28,'LAST PUSH',12,C.cyan,1));
     parts.push(code(981,y+55,safeDate(obj.pushed_at),16,C.text,0));
   });
-  parts.push(code(36,587,'TRACKED: 6 VERIFIED PUBLIC REPOSITORIES  //  STATISTICS FROM GITHUB',14,C.cyan,1));
+  parts.push(code(36,587,'TRACKING VERIFIED REPOSITORIES  //  ALL METRICS FETCHED FROM GITHUB',14,C.cyan,1));
   return frame(1200,H,parts.join(''));
 }
 
