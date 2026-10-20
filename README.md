@@ -1,106 +1,84 @@
-<!--
-  DWAYNE NIXON // NIGHT CITY DOSSIER
-  A self-hosted, cyberpunk-inspired GitHub profile.
-  Graphic panels are text-based SVGs in ./assets.
-  No third-party stats renderers or external fonts required.
--->
-
+<!-- DWAYNE NIXON // NEON PROFILE OS — real projects only; telemetry updates through GitHub Actions -->
 <div align="center">
-  <img src="./assets/night-city-banner.svg" alt="Dwayne Nixon. Data science, AI, computer vision and natural language processing. Neon Night City cyberpunk skyline." width="100%" />
-  <br />
-  <a href="https://github.com/DwayneNixon?tab=repositories"><img src="https://img.shields.io/badge/%E2%96%B6_EXPLORE_PROJECTS-00EAFF?style=for-the-badge&labelColor=10172C&color=00EAFF" alt="Explore my GitHub projects" /></a>
-  <a href="https://github.com/DwayneNixon"><img src="https://img.shields.io/badge/PROFILE-ONLINE-FF3FA4?style=for-the-badge&labelColor=10172C&color=FF3FA4" alt="GitHub profile online" /></a>
+
+<img src="./assets/night-city-banner.svg" width="100%" alt="Dwayne Nixon — Night City cyberpunk-inspired developer profile" />
+
+<img src="./assets/uplink-status.svg" width="100%" alt="Animated neon uplink status" />
+
+<a href="https://github.com/DwayneNixon?tab=repositories">[ // EXPLORE REPOSITORIES ]</a>　<a href="https://github.com/DwayneNixon">[ // GITHUB PROFILE ]</a>
+
 </div>
 
-<br />
+<img src="./assets/identity.svg" width="100%" alt="Sector 01 — Operator Profile" />
 
-<img src="./assets/identity.svg" alt="Sector 01: Operator Profile" width="100%" />
+<img src="./assets/operator-id.svg" width="100%" alt="Dwayne George Nixon — MSc Data Science at the University of Edinburgh; BE Computer Engineering at DBIT Mumbai" />
 
-<img src="./assets/operator-id.svg" alt="Dwayne George Nixon — MSc Data Science at the University of Edinburgh; BE Computer Engineering at DBIT Mumbai" width="100%" />
+**`> IDENTITY CONFIRMED`** — I'm Dwayne, an MSc Data Science student at the **University of Edinburgh** and a Computer Engineering graduate from **Don Bosco Institute of Technology, Mumbai**.
 
-**`> INITIALIZING OPERATOR DOSSIER...`**
+I build **AI and data science solutions** spanning computer vision, natural language processing, software engineering, and assistive technology. I was previously the **Technical Secretary** of my college's student council and worked on the Computer Department's website.
 
-I'm **Dwayne George Nixon**, an MSc Data Science student at the **University of Edinburgh**, and a Computer Engineering graduate of **Don Bosco Institute of Technology, Mumbai**.
+<img src="./assets/career-route.svg" width="100%" alt="My journey: computer engineering at DBIT, technical leadership, and MSc Data Science at Edinburgh" />
 
-I design and build intelligent systems that bridge **machine learning, computer vision, natural language processing, and practical software engineering**. My work spans assistive AI, automation, research, mobile applications, and creative technology.
+<img src="./assets/missions.svg" width="100%" alt="Sector 02 — Mission Archive" />
 
-Previously: **Technical Secretary**, **Computer Department Web Developer Intern**, and coordinator of large college events. I enjoy the intersection of research, shipping real software, and leading teams.
+**`// DEPLOYED PROJECTS — VERIFIED WORK I BUILT OR CONTRIBUTED TO`**
 
-<img src="./assets/career-route.svg" alt="Engineering at DBIT, technical leadership and web development, followed by MSc Data Science at the University of Edinburgh in 2026" width="100%" />
+<a href="https://github.com/DwayneNixon/LUMEN-Visual-Navigation-Assistant"><img src="./assets/project-lumen.svg" width="100%" alt="LUMEN: computer vision and threat-aware navigation assistant" /></a>
 
-<br />
+<a href="https://github.com/DwayneNixon/unified-nl-interface"><img src="./assets/project-unified.svg" width="100%" alt="Unified NL Interface: natural-language automation and published Springer ICT4SD research" /></a>
 
-<img src="./assets/missions.svg" alt="Sector 02: Mission Archive — Featured Projects" width="100%" />
-
-<a href="https://github.com/DwayneNixon/LUMEN-Visual-Navigation-Assistant">
-  <img src="./assets/project-lumen.svg" width="100%" alt="Mission 01: LUMEN, an intelligent assistive vision system combining YOLO specialist models and LSTM-based threat prediction" />
-</a>
-
-<a href="https://github.com/DwayneNixon/unified-nl-interface">
-  <img src="./assets/project-unified.svg" width="100%" alt="Mission 02: Unified Natural Language Interface. Innoquest 2024 first place; research published Springer ICT4SD 2025" />
-</a>
-
-<!-- The following featured projects have no verified public source repository linked here. -->
-<img src="./assets/project-agroshield.svg" width="100%" alt="Mission 03: AgroShield. CNN agricultural classification with 93% accuracy; Innoquest 2025 second place" />
-
-<a href="https://github.com/DwayneNixon/Re.volAlert">
-  <img src="./assets/project-revolalert.svg" width="100%" alt="Mission 04: Re.volAlert, BERT-based NLP application with a Streamlit interface" />
-</a>
+<a href="https://github.com/DwayneNixon/Re.volAlert"><img src="./assets/project-revolalert.svg" width="100%" alt="Re.volAlert: BERT financial news sentiment analyzer built with Streamlit" /></a>
 
 <details>
-<summary><b>▸ ACCESS ADDITIONAL MISSIONS // SIDE QUESTS</b></summary>
+<summary><b>▸ OPEN COLLABORATIVE MISSIONS — WITH VERIFIED REPO CREDITS</b></summary>
 
-<br />
-
-| OPERATIVE FILE | DETAILS |
+| PROJECT | MY INVOLVEMENT / FOCUS |
 | :-- | :-- |
-| [`ROAD_RESCUE`](https://github.com/DwayneNixon/road_rescue_app) | Flutter + Mapbox mobile application |
-| [`RESUMATIC`](https://github.com/DwayneNixon/Resumatic) | Innoquest 2023 — 3rd place |
-| [`COMPS_DEPT_WEB`](https://github.com/DwayneNixon/CompsDeptWebsite) | Department website development |
-| `VOTING_DAPP` | Decentralized voting application using Solidity |
-| `TEKNACK_GAMES` | Sengoku Yami and Wrath of the Shogun |
+| [**Road Rescue**](https://github.com/DwayneNixon/road_rescue_app) | Named team member · Flutter + Mapbox mobile application |
+| [**Resumatic**](https://github.com/DwayneNixon/Resumatic) | Named team member · Automated resume builder · Innoquest 2023 — 3rd place |
+| [**DBIT Computer Department Website**](https://github.com/DwayneNixon/CompsDeptWebsite) | Listed on the development team · Website engineering |
 
 </details>
 
-<br />
+<details>
+<summary><b>▸ OFF-GRID PROJECT — AGROSHIELD</b></summary>
 
-<img src="./assets/loadout.svg" alt="Sector 03: Tech Arsenal" width="100%" />
+**AgroShield** — agricultural CNN project with **93% accuracy**; **2nd place at Innoquest 2025**. This is one of my projects, but no public GitHub repository is linked, so no GitHub activity or stars are attributed to it.
 
-<img src="./assets/tech-matrix.svg" alt="Neural engine: Python, PyTorch, TensorFlow, OpenCV, Scikit-learn, YOLO. Data core: NumPy, Pandas, Jupyter, MySQL, MongoDB, LaTeX. Software systems: React, Node.js, JavaScript, Flutter, Dart, Firebase. Dev toolchain: Git and GitHub, Linux, VS Code, Figma, Blender, Unity." width="100%" />
+</details>
+
+<img src="./assets/loadout.svg" width="100%" alt="Sector 03 — Tech Arsenal" />
+
+<img src="./assets/tech-matrix.svg" width="100%" alt="AI: Python, PyTorch, TensorFlow, OpenCV, scikit-learn, YOLO. Data: NumPy, Pandas, Jupyter, SQL, MongoDB. Apps: React, Node.js, JavaScript, Flutter, Dart. Tools: Git, Linux, VS Code, Figma, Blender and Unity." />
+
+<img src="./assets/analytics.svg" width="100%" alt="Sector 04 — Live GitHub Analytics" />
+
+**`> LIVE GITHUB UPLINK`** — Figures below come from GitHub's own API, refreshed automatically by [this workflow](https://github.com/DwayneNixon/DwayneNixon/actions/workflows/refresh-profile-metrics.yml) every six hours. They are **real counts**, not mock data; the timestamp shows the most recent successful sync. GitHub may briefly cache the images.
+
+<img src="./assets/telemetry-board.svg" width="100%" alt="Live GitHub public repository count, stars earned, followers and contribution total or verified project count" />
+
+<img src="./assets/contribution-activity.svg" width="100%" alt="GitHub contribution calendar refreshed from the GitHub GraphQL API" />
+
+**`// REPOSITORY SIGNALS`** — Only the six public projects linked above are tracked here. **Stars, forks and last push dates are fetched from GitHub**, not invented or estimated.
+
+<img src="./assets/repository-signals.svg" width="100%" alt="Live stars, forks and latest push dates for verified repositories in which Dwayne Nixon participated" />
 
 <div align="center">
 
-`MODEL TRAINING`　·　`DATA PIPELINES`　·　`VISION SYSTEMS`　·　`FULL-STACK APPS`
+[**VIEW MY LIVE ACTIVITY ON GITHUB ↗**](https://github.com/DwayneNixon)
 
 </div>
 
-<br />
+<img src="./assets/transmission.svg" width="100%" alt="Sector 05 — Transmission" />
 
-<img src="./assets/analytics.svg" alt="Sector 04: Signal Analytics" width="100%" />
-
-<img src="./assets/telemetry-board.svg" alt="Portfolio telemetry as of October 2026: 14 public repositories; 3 Innoquest podium finishes; 1 Springer research publication; current MSc student at Edinburgh. For live activity, visit the GitHub profile." width="100%" />
+<a href="https://github.com/DwayneNixon"><img src="./assets/contact-panel.svg" width="100%" alt="Let's build something extraordinary in AI, research, engineering and creative technology" /></a>
 
 <div align="center">
 
-**`SYSTEM NOTE //`** Metrics above are a *snapshot*, not live GitHub analytics.  
-**[VIEW LIVE CONTRIBUTIONS & REPOSITORIES →](https://github.com/DwayneNixon)**
+**`> CHANNEL OPEN`** — Open to conversations about AI, accessibility, computer vision, NLP and research.
 
-</div>
+[**EXPLORE MY PROJECTS ↗**](https://github.com/DwayneNixon?tab=repositories)　//　[**VIEW MY GITHUB ↗**](https://github.com/DwayneNixon)
 
-<br />
-
-<img src="./assets/transmission.svg" alt="Sector 05: Open Transmission" width="100%" />
-
-<a href="https://github.com/DwayneNixon">
-  <img src="./assets/contact-panel.svg" alt="Let's build something extraordinary. AI, research, engineering, creative technology. End of transmission." width="100%" />
-</a>
-
-<div align="center">
-
-**`> CHANNEL OPEN`** — Always interested in machine learning, research, accessibility, creative technology, and ambitious ideas.
-
-[**EXPLORE MY CODE**](https://github.com/DwayneNixon?tab=repositories)　//　[**VIEW MY PROFILE**](https://github.com/DwayneNixon)
-
-<sub>`© 2026 DWAYNE GEORGE NIXON // NO SIGNAL LOST // STAY CURIOUS`</sub>
+<sub>`© 2026 DWAYNE GEORGE NIXON // NEON PROFILE OS // STAY CURIOUS`</sub>
 
 </div>
